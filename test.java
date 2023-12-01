@@ -1,1 +1,1 @@
-// Automation Testing using Selenium & Appium
+// Automate Mobile Application using Appium
