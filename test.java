@@ -1,1 +1,1 @@
-// Automation Testing using Selenium & Appium
+// Automation Web Testing using Selenium
